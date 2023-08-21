@@ -1,4 +1,4 @@
-# DL_paper_review
+# DL_paper_review_code
 review of most known deep learning papers + code
 
 Reference from here : https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
