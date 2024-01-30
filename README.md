@@ -19,3 +19,5 @@ Reference from here : https://github.com/floodsung/Deep-Learning-Papers-Reading-
 
 **[6]** Kingma, Diederik P., and Max Welling. "**Auto-encoding variational bayes**." arXiv preprint arXiv:1312.6114 (2013). [[pdf]](http://arxiv.org/pdf/1312.6114) **(VAE)**
 
+# MultiModal Model 
+
